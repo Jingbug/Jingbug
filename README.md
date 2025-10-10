@@ -30,6 +30,13 @@ Building MSA-based logging and authentication systems using Spring Boot, WebFlux
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 
+#### 📊 Data & Analysis
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
+
 #### 🧰 Tools
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" />
