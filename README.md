@@ -3,23 +3,22 @@
 <div align="center">
 
 ### ⚡ Backend Developer on a Growth Path
-"Constantly improving to build scalable and reliable backend systems."
-
----
-
-## 🧑‍💻 Experience
-
-### **(주)GNOTI** — Backend Developer (2025.09 ~ Present)
+**"Constantly improving to build scalable and reliable backend systems."**<br>
 Building MSA-based logging and authentication systems using Spring Boot, WebFlux, Kafka, and Reactive Streams.
 
 ---
 
-## 🎓 Education
+### 🧑‍💻 Experience
 
+#### (주)GNOTI — Full Stack Developer (2025.09 ~ Present)
 
-### **Konkuk University** — Computer Engineering (2024.03 ~ 2026.02)
+---
 
-### **Dongyang Mirae University** — Computer Software Engineering (2018.03 ~ 2024.02)
+### 🎓 Education
+
+#### Konkuk University — Computer Engineering (2024.03 ~ 2026.02)
+
+#### Dongyang Mirae University — Computer Software Engineering (2018.03 ~ 2024.02)
 
 ---
 
